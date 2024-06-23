@@ -1,0 +1,13 @@
+The Hundred-Page Machine Learning Book by Andriy Burkov
+
+Machine Learning For Absolute Beginners by Oliver Theobald
+
+Machine Learning for Hackers by Drew Conway and John Myles White
+
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Geron Aurelien
+
+An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+
+Programming Collective Intelligence by Toby Segaran
+
+Machine Learning for Humans by Vishal Maini and Samer Sabri
